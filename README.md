@@ -53,7 +53,7 @@ Each project includes **Exploratory Data Analysis (EDA)** to gain a better under
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/MakwanaDev/machine-learning.git
    ```
 2. **Navigate to the project directory**:
    ```sh
