@@ -1,5 +1,3 @@
-Here's a sample README file for your GitHub repository based on the provided image and details:
-
 ---
 
 # Machine Learning Projects Repository
